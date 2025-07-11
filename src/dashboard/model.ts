@@ -1,4 +1,4 @@
-// Define Dashboard data model
+// Create Dashboard database schema
 
 export interface DashboardModel {
   id: string;
