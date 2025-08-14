@@ -3,3 +3,5 @@
 export const coreApi = {
   // API endpoint definitions
 };
+
+// Implement core API calls
